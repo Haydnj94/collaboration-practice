@@ -1,4 +1,8 @@
 Team Goals:
+<<<<<<< Updated upstream
 - Collaborate effectively.\
 - Meet deadlines.
 -Communicate Regularly
+=======
+- Collaborate effectively.\
+>>>>>>> Stashed changes
